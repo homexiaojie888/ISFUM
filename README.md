@@ -9,7 +9,6 @@ A simple way is to run MainTest_ISFUM.java and MainTestEMSFUI_D(baseline).
 
 # Benchmarks
 The data format used is the same as in the file DB_Utility.txt. Additional datasets like DB_Utility.txt can be accessed from SPMF.
-Introduction
 
 # Citation
 If this article or code useful for your project, please refer to
