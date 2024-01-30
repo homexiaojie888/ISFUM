@@ -1,5 +1,5 @@
 # ISFUM
-This repo hosts the code for paper "Incremental skyline frequent-utility itemset mining", Xiaojie Zhanga, Guoting Chen, Linqi Song, Wensheng, 2023.
+This repo hosts the code for paper "Incremental skyline frequent-utility itemset mining", Xiaojie Zhang, Guoting Chen, Linqi Song, Wensheng, 2023.
 
 # Requirements
 Java programming language.
